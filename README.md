@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,nodejs,git,github,eclipse,vscode,bash,vite&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ruby,html,css,js,nodejs,npm,vite,bash,powershell,git,github,gitlab,eclipse,idea,vscode,cmake,postgres,notion&perline=12" />
   </a>
 </p>
 <br>
@@ -49,7 +49,7 @@ Este proyecto me permitió reforzar conceptos como herencia, polimorfismo, colec
 </p>
 
 <p align="center">
-  <a href="[https://github.com/PinGuUwU/UNO-Java](https://github.com/PinGuUwU/Juego-de-cartas-UNO-offline-LAN)" target="_blank">
+  <a href="https://github.com/PinGuUwU/Juego-de-cartas-UNO-offline-LAN" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio UNO en Java"/>
   </a>
 </p>
