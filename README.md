@@ -1,5 +1,5 @@
-## Hi from another brain
-<h1 align="center">Hi from another brain! 🧠<br>Soy Priscila / PinGuUwU 🐧</h1> 
+
+<h1 align="center">¡Hi from another brain! 🧠<br>Soy Priscila / PinGuUwU 🐧</h1> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/priscila-redondo-291031219/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -11,7 +11,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Estudiante de Analista en Sistemas (UNLu)
+🎓 Estudiante de Sistemas (UNLu)
 
 💻 Apasionada por la programación en Java y el uso de Programación Orientada a Objetos, con un fuerte enfoque en escribir código claro, modular, ordenado y bien documentado.
 
@@ -28,22 +28,42 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,nodejs,git,github,eclipse,vscode,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,nodejs,git,github,eclipse,vscode,bash,vite&perline=12" />
   </a>
 </p>
 <br>
 <!-------------------------->
+<!--Proyecto destacado(start)-->
+<h2>Proyecto Destacado 😎</h2>
 
-<h2>GitHub</h2>
-<!--- stats & Trophy (start) -->
+<p align="left">
+🎮 <b>UNO en Java</b>  
+Implementación del clásico juego de cartas UNO aplicando <b>Programación Orientada a Objetos</b>.  
+Este proyecto me permitió reforzar conceptos como herencia, polimorfismo, colecciones y el manejo de turnos/reglas de un juego.
+
+✅ Desafíos y aprendizajes:  
+- Interacción y feedback con mis profesores para mejorar el diseño y la lógica del juego.  
+- Investigación autónoma en foros y documentación para resolver problemas técnicos.  
+- Implementación de la librería de <b>RMI</b> provista por el profesor para permitir partidas en LAN (de 2 a 4 jugadores).  
+
+</p>
+
 <p align="center">
-  <!--- stats (start) -->
+  <a href="[https://github.com/PinGuUwU/UNO-Java](https://github.com/PinGuUwU/Juego-de-cartas-UNO-offline-LAN)" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio UNO en Java"/>
+  </a>
+</p>
+<!--Proyecto destacado(end)-->
+
+<h2>GitHub :octocat:</h2>
+<!--- stats (start) -->
+<p align="center">
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=PinGuUwU&theme=dark&show_icons=true&count_private=true" />
+  <br></br> 
   <img  title="" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PinGuUwU&theme=dark&hide_border=false" /> 
 </td>
 
