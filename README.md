@@ -1,10 +1,17 @@
 <h1 align="center">¡Hi from another brain! 🧠<br>Soy Priscila / PinGuUwU 🐧</h1> 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/priscila-redondo-291031219/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href = "mailto:prisredondo29@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href = "https://discord.com/users/prisredon3546"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  </p>
+   <a href="https://www.linkedin.com/in/priscila-redondo-291031219/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-5E6AD2?style=for-the-badge&logoColor_white" />
+  </a>
+  <a href="https://www.linkedin.com/in/priscila-redondo-291031219/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href = "mailto:prisredondo29@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
 <br>
 
 <h2>Sobre mi 🤗</h2>
@@ -14,7 +21,7 @@
 🧠 Apasionada por la intersección entre <b>psicología y tecnología</b>. Me interesa explorar profesionalmente áreas como el Análisis de Datos, la Inteligencia Artificial y la neurociencia.<br><br>
 🌎 Nivel de inglés: Intermedio-básico (B1/B2 EF SET).<br><br>
 📫 Contacto: <b>prisredondo29@gmail.com</b> <br><br>
-🌐 Portfolio: <a href="https://priscila-redondo.netlify.app/" target="_blank">-----</a>
+🌐 Portfolio: <b>https://priscila-redondo.netlify.app/</b>
 </p>
 <br>
 
