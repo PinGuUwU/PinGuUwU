@@ -1,4 +1,3 @@
-
 <h1 align="center">¡Hi from another brain! 🧠<br>Soy Priscila / PinGuUwU 🐧</h1> 
 
 <p align="center">
@@ -7,73 +6,57 @@
   <a href = "https://discord.com/users/prisredon3546"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   </p>
 <br>
+
 <h2>Sobre mi 🤗</h2>
-<!--Intro start-->
-
 <p align="left">
-🎓 Estudiante de Sistemas (UNLu)
-
-💻 Apasionada por la programación en Java y el uso de Programación Orientada a Objetos, con un fuerte enfoque en escribir código claro, modular, ordenado y bien documentado.
-
-🛠️ Me interesa la creación de extensiones y complementos sobre plataformas ya desarrolladas, explorando cómo aportar nuevas funcionalidades a sistemas existentes.
-
-🚀 Aún estoy descubriendo mis áreas de especialización, pero me motiva aprender continuamente y ganar experiencia profesional en el desarrollo de software.
-
-📫 Contacto: **prisredondo29@gmail.com**
-<!--Intro end-->
-  </p>
+🎓 Estudiante de la Licenciatura en Sistemas de Información (UNLu).<br><br>
+💻 <b>Desarrolladora Web Full Stack</b> con sólidas bases en Java y Programación Orientada a Objetos (POO). Me destaco por escribir código claro, modular y con arquitecturas de estado bien estructuradas.<br><br>
+🧠 Apasionada por la intersección entre <b>psicología y tecnología</b>. Me interesa explorar profesionalmente áreas como el Análisis de Datos, la Inteligencia Artificial y la neurociencia.<br><br>
+🌎 Nivel de inglés: Intermedio (B1/B2 EF SET).<br><br>
+📫 Contacto: <b>prisredondo29@gmail.com</b>
+</p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2>Tecnologías y Herramientas 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ruby,html,css,js,nodejs,npm,vite,bash,powershell,git,github,gitlab,eclipse,idea,vscode,cmake,postgres,notion&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mongodb,tailwind,vite,c,cpp,py,bash,git,github,vscode,eclipse,postgres,netlify,vercel&perline=10" />
   </a>
 </p>
 <br>
-<!-------------------------->
-<!--Proyecto destacado(start)-->
-<h2>Proyecto Destacado 😎</h2>
+
+<h2>Proyectos Destacados 😎</h2>
 
 <p align="left">
-🎮 <b>UNO en Java</b>  
-Implementación del clásico juego de cartas UNO aplicando <b>Programación Orientada a Objetos</b>.  
-Este proyecto me permitió reforzar conceptos como herencia, polimorfismo, colecciones y el manejo de turnos/reglas de un juego.
-
-✅ Desafíos y aprendizajes:  
-- Interacción y feedback con mis profesores para mejorar el diseño y la lógica del juego.  
-- Investigación autónoma en foros y documentación para resolver problemas técnicos.  
-- Implementación de la librería de <b>RMI</b> provista por el profesor para permitir partidas en LAN (de 2 a 4 jugadores).  
-
+💼 <b>ConectAR-DEV - Marketplace Freelance</b><br>
+Desarrollo Full Stack en equipo de una plataforma para conectar profesionales IT en Argentina. Participé activamente tanto en el diseño <b>UX/UI</b> como en la lógica de desarrollo utilizando el stack MERN (React, Node.js, MongoDB) y Tailwind CSS.
 </p>
 
-<p align="center">
+<p align="left">
+🎓 <b>Simulador de Plan de Estudios Universitario</b><br>
+Aplicación interactiva construida con <b>React y HeroUI</b> para visualizar y gestionar el progreso académico. Implementé un motor lógico complejo para manejar correlatividades en cascada y dependencia de estados utilizando Grafos Acíclicos Dirigidos (DAGs) y manejo de estados centralizado.
+</p>
+
+<p align="left">
+🎮 <b>UNO en Java (LAN)</b><br>
+Implementación del clásico juego de cartas aplicando <b>Programación Orientada a Objetos</b>, patrón MVC y la librería RMI para permitir partidas multijugador en red local.
+<br>
   <a href="https://github.com/PinGuUwU/Juego-de-cartas-UNO-offline-LAN">
     <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<!--Proyecto destacado(end)-->
-
 <h2>GitHub :octocat:</h2>
-<!--- stats (start) -->
 <p align="center">
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PinGuUwU&theme=dark&show_icons=true&count_private=true" />
   <br></br> 
   <img title="" src="https://github-readme-streak-stats.herokuapp.com/?user=PinGuUwU&theme=dark&hide_border=false" /> 
 </td>
-
 <td width="40%" align="center">
-
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PinGuUwU&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-</p>        
+</p>
