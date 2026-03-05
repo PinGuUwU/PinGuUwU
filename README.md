@@ -12,8 +12,9 @@
 🎓 Estudiante de la Licenciatura en Sistemas de Información (UNLu).<br><br>
 💻 <b>Desarrolladora Web Full Stack</b> con sólidas bases en Java y Programación Orientada a Objetos (POO). Me destaco por escribir código claro, modular y con arquitecturas de estado bien estructuradas.<br><br>
 🧠 Apasionada por la intersección entre <b>psicología y tecnología</b>. Me interesa explorar profesionalmente áreas como el Análisis de Datos, la Inteligencia Artificial y la neurociencia.<br><br>
-🌎 Nivel de inglés: Intermedio (B1/B2 EF SET).<br><br>
-📫 Contacto: <b>prisredondo29@gmail.com</b>
+🌎 Nivel de inglés: Intermedio-básico (B1/B2 EF SET).<br><br>
+📫 Contacto: <b>prisredondo29@gmail.com</b> <br>
+🌐 Portfolio: <a href="https://priscila-redondo.netlify.app/" target="_blank">https://priscila-redondo.netlify.app/</a>
 </p>
 <br>
 
@@ -30,18 +31,28 @@
 <p align="left">
 💼 <b>ConectAR-DEV - Marketplace Freelance</b><br>
 Desarrollo Full Stack en equipo de una plataforma para conectar profesionales IT en Argentina. Participé activamente tanto en el diseño <b>UX/UI</b> como en la lógica de desarrollo utilizando el stack MERN (React, Node.js, MongoDB) y Tailwind CSS.
+  <br>
+  🌐 Página web: <a href="[https://priscila-redondo.netlify.app/](https://conectar-dev.netlify.app/)" target="_blank">Conectar-Dev</a>
+  <a href="https://github.com/Soriez/ConectAR-DEV" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="left">
 🎓 <b>Simulador de Plan de Estudios Universitario</b><br>
 Aplicación interactiva construida con <b>React y HeroUI</b> para visualizar y gestionar el progreso académico. Implementé un motor lógico complejo para manejar correlatividades en cascada y dependencia de estados utilizando Grafos Acíclicos Dirigidos (DAGs) y manejo de estados centralizado.
+  <br>
+  <b>Repositorio en construcción:</b><br>
+  <a href="https://github.com/PinGuUwU/simulador-correlativas" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="left">
 🎮 <b>UNO en Java (LAN)</b><br>
 Implementación del clásico juego de cartas aplicando <b>Programación Orientada a Objetos</b>, patrón MVC y la librería RMI para permitir partidas multijugador en red local.
 <br>
-  <a href="https://github.com/PinGuUwU/Juego-de-cartas-UNO-offline-LAN">
+  <a href="https://github.com/PinGuUwU/Juego-de-cartas-UNO-offline-LAN" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
