@@ -13,8 +13,8 @@
 💻 <b>Desarrolladora Web Full Stack</b> con sólidas bases en Java y Programación Orientada a Objetos (POO). Me destaco por escribir código claro, modular y con arquitecturas de estado bien estructuradas.<br><br>
 🧠 Apasionada por la intersección entre <b>psicología y tecnología</b>. Me interesa explorar profesionalmente áreas como el Análisis de Datos, la Inteligencia Artificial y la neurociencia.<br><br>
 🌎 Nivel de inglés: Intermedio-básico (B1/B2 EF SET).<br><br>
-📫 Contacto: <b>prisredondo29@gmail.com</b> <br>
-🌐 Portfolio: <a href="https://priscila-redondo.netlify.app/" target="_blank">https://priscila-redondo.netlify.app/</a>
+📫 Contacto: <b>prisredondo29@gmail.com</b> <br><br>
+🌐 Portfolio: <a href="https://priscila-redondo.netlify.app/" target="_blank">-----</a>
 </p>
 <br>
 
@@ -32,7 +32,7 @@
 💼 <b>ConectAR-DEV - Marketplace Freelance</b><br>
 Desarrollo Full Stack en equipo de una plataforma para conectar profesionales IT en Argentina. Participé activamente tanto en el diseño <b>UX/UI</b> como en la lógica de desarrollo utilizando el stack MERN (React, Node.js, MongoDB) y Tailwind CSS.
   <br>
-  🌐 Página web: <a href="[https://priscila-redondo.netlify.app/](https://conectar-dev.netlify.app/)" target="_blank">Conectar-Dev</a>
+  🌐 Página web: <a href="https://conectar-dev.netlify.app/" target="_blank">Conectar-Dev</a><br>
   <a href="https://github.com/Soriez/ConectAR-DEV" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
